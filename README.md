@@ -5,7 +5,7 @@ Epileptic seizure detection from EEG signals is a complex task that that requite
 
 Requiremants:
 import mne
-and ML requiremants
+and ML libraries : ex. sklearn, matploit
 
 
 
